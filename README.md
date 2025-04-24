@@ -3,7 +3,7 @@
 Zerith is a regenerative energy framework designed to unlock ultra-low-cost, fuel-free energy by rethinking how natural differentials and system cycles can be used to generate power. This repository serves as a cryptographically authenticated archive for signed documents, blockchain proofs, and the encrypted vault protecting the foundational intellectual property.
 
 > "Zerith isn’t just clean energy. It’s a new logic for energy — one that regenerates, not consumes."
-![Zerith Cover](assets/cover3-1.jpg)
+![Zerith Cover](assets/cover3-1.png)
 ---
 
 ## 🔐 Proof of Authenticity & Integrity
