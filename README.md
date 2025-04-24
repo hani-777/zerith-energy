@@ -10,7 +10,7 @@ Zerith is a regenerative energy framework designed to unlock ultra-low-cost, fue
 
 All project documents are cryptographically protected:
 
-- **PGP/GPG Signatures:** Each document is digitally signed using [Kleopatra](https://files.gpg4win.org/gpg4win-4.4.0.exe).
+- **PGP/GPG Signatures:** Each document is digitally signed using [Kleopatra](https://gpg4win.org/).
 - **Blockchain Timestamps:** Verified on Base and Bitcoin networks.
 - **Encrypted Vault:** Hosted securely on OneDrive via [Cryptomator](https://cryptomator.org).
 
@@ -69,8 +69,8 @@ The vision: protect today, share tomorrow.
 ## 📡 Official Links
 
 - 🌐 Website: [hani.solutions/zerith](https://hani.solutions/zerith)
-- 🔗 LinkedIn: [linkedin.com/in/hani-mousavi](www.linkedin.com/in/hani-mousavi)
-- 📘 Notion: [Notion Workspace](https://hani.notion.site/zerith)
+- 🔗 LinkedIn: [linkedin.com/in/hani-mousavi](https://www.linkedin.com/in/hani-mousavi/)
+- 📘 Notion: [Notion Workspace](https://morning-preface-699.notion.site/Zerith-1d4359cfd80d8051abffc475894d4538?pvs=4)
 - 📂 Vault: See `VAULT_LINK.txt`
 
 ---
