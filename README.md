@@ -70,7 +70,7 @@ The vision: protect today, share tomorrow.
 
 - 🌐 Website: [hani.solutions/zerith](https://hani.solutions/zerith)
 - 🔗 LinkedIn: [linkedin.com/in/hani-mousavi](https://www.linkedin.com/in/hani-mousavi/)
-- 📘 Notion: [Notion Workspace](https://morning-preface-699.notion.site/Zerith-1d4359cfd80d8051abffc475894d4538?pvs=4)
+- 📘 Notion: [Notion Workspace](https://morning-preface-699.notion.site/Zerith-1d4359cfd80d8051abffc475894d4538)
 - 📂 Vault: See `VAULT_LINK.txt`
 
 ---
